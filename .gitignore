@@ -1,0 +1,14 @@
+.allure/
+.idea/
+.settings/
+.classpath
+allure-report/
+logs/
+Reports/
+target/
+test-output/
+GW_Cucumber.iml
+.project
+DriversJars
+/log/
+.log
